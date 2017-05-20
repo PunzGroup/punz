@@ -1,6 +1,6 @@
 
-PUNZ development tree
+yuge development tree
 
-PUNZ is a PoS-based cryptocurrency.
+yuge is a PoS-based cryptocurrency.
 
 

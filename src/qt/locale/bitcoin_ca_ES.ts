@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About PUNZ</source>
-        <translation>Sobre PUNZ</translation>
+        <source>About yuge</source>
+        <translation>Sobre yuge</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;PUNZ&lt;/b&gt; version</source>
-        <translation>versió &lt;b&gt;PUNZ&lt;/b&gt;</translation>
+        <source>&lt;b&gt;yuge&lt;/b&gt; version</source>
+        <translation>versió &lt;b&gt;yuge&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The PUNZ developers</source>
+Copyright © 2014 The yuge developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The PUNZ developers</translation>
+Copyright © 2014 The yuge developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -60,8 +60,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your PUNZ addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Aquestes són les teves adreces de PUNZ per rebre els pagaments. És possible que vulgueu donar una diferent a cada remitent per a poder realitzar un seguiment de qui li está pagant.</translation>
+        <source>These are your yuge addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Aquestes són les teves adreces de yuge per rebre els pagaments. És possible que vulgueu donar una diferent a cada remitent per a poder realitzar un seguiment de qui li está pagant.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -75,8 +75,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a PUNZ address</source>
-        <translation>Signar un missatge per demostrar que és propietari d&apos;una adreça PUNZ</translation>
+        <source>Sign a message to prove you own a yuge address</source>
+        <translation>Signar un missatge per demostrar que és propietari d&apos;una adreça yuge</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -90,8 +90,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified PUNZ address</source>
-        <translation>Comproveu el missatge per assegurar-se que es va signar amb una adreça PUNZ especificada.</translation>
+        <source>Verify a message to ensure it was signed with a specified yuge address</source>
+        <translation>Comproveu el missatge per assegurar-se que es va signar amb una adreça yuge especificada.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -258,8 +258,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>PUNZ will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>PUNZ tancarà ara per acabar el procés de xifrat. Recordeu que l&apos;encriptació de la seva cartera no pot protegir completament les seves monedes de ser robades pel malware que pugui infectar al seu equip.</translation>
+        <source>yuge will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>yuge tancarà ara per acabar el procés de xifrat. Recordeu que l&apos;encriptació de la seva cartera no pot protegir completament les seves monedes de ser robades pel malware que pugui infectar al seu equip.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -372,8 +372,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about PUNZ</source>
-        <translation>Mostra informació sobre PUNZ</translation>
+        <source>Show information about yuge</source>
+        <translation>Mostra informació sobre yuge</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -422,13 +422,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a PUNZ address</source>
-        <translation>Enviar monedes a una adreça PUNZ</translation>
+        <source>Send coins to a yuge address</source>
+        <translation>Enviar monedes a una adreça yuge</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for PUNZ</source>
-        <translation>Modificar les opcions de configuració per a PUNZ</translation>
+        <source>Modify configuration options for yuge</source>
+        <translation>Modificar les opcions de configuració per a yuge</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -467,8 +467,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-202"/>
-        <source>PUNZ</source>
-        <translation>PUNZ</translation>
+        <source>yuge</source>
+        <translation>yuge</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -477,8 +477,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About PUNZ</source>
-        <translation>&amp;Sobre PUNZ</translation>
+        <source>&amp;About yuge</source>
+        <translation>&amp;Sobre yuge</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -534,13 +534,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>PUNZ client</source>
-        <translation>Client PUNZ</translation>
+        <source>yuge client</source>
+        <translation>Client yuge</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to PUNZ network</source>
-        <translation><numerusform>%n conexió activa a la xarxa PUNZ</numerusform><numerusform>%n conexions actives a la xarxa PUNZ</numerusform></translation>
+        <source>%n active connection(s) to yuge network</source>
+        <translation><numerusform>%n conexió activa a la xarxa yuge</numerusform><numerusform>%n conexions actives a la xarxa yuge</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -579,13 +579,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-312"/>
-        <source>About PUNZ card</source>
-        <translation>Sobre la tarjeta PUNZ</translation>
+        <source>About yuge card</source>
+        <translation>Sobre la tarjeta yuge</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about PUNZ card</source>
-        <translation>Mostra informació sobre la tarjeta PUNZ</translation>
+        <source>Show information about yuge card</source>
+        <translation>Mostra informació sobre la tarjeta yuge</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -660,8 +660,8 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid PUNZ address or malformed URI parameters.</source>
-        <translation>l&apos;URI no es pot analitzar! Això pot ser causat per una adreça PUNZ no vàlida o paràmetres URI malformats.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid yuge address or malformed URI parameters.</source>
+        <translation>l&apos;URI no es pot analitzar! Això pot ser causat per una adreça yuge no vàlida o paràmetres URI malformats.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -720,8 +720,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. PUNZ can no longer continue safely and will quit.</source>
-        <translation>S&apos;ha produït un error fatal. PUNZ ja no pot continuar de forma segura i es tancarà.</translation>
+        <source>A fatal error occurred. yuge can no longer continue safely and will quit.</source>
+        <translation>S&apos;ha produït un error fatal. yuge ja no pot continuar de forma segura i es tancarà.</translation>
     </message>
 </context>
 <context>
@@ -1054,8 +1054,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid PUNZ address.</source>
-        <translation>La direcció introduïda &quot;%1&quot; no és una adreça PUNZ vàlida.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid yuge address.</source>
+        <translation>La direcció introduïda &quot;%1&quot; no és una adreça yuge vàlida.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1073,8 +1073,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>PUNZ-Qt</source>
-        <translation>PUNZ-Qt</translation>
+        <source>yuge-Qt</source>
+        <translation>yuge-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1146,13 +1146,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start PUNZ after logging in to the system.</source>
-        <translation>Inicia automàticament PUNZ després d&apos;entrar en el sistema.</translation>
+        <source>Automatically start yuge after logging in to the system.</source>
+        <translation>Inicia automàticament yuge després d&apos;entrar en el sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start PUNZ on system login</source>
-        <translation>&amp;Iniciar PUNZ amb l&apos;inici de sessió</translation>
+        <source>&amp;Start yuge on system login</source>
+        <translation>&amp;Iniciar yuge amb l&apos;inici de sessió</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1171,8 +1171,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the PUNZ client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Obrir automàticament el port de client PUNZ en el router. Això només funciona quan el router és compatible amb UPnP i està habilitat.</translation>
+        <source>Automatically open the yuge client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Obrir automàticament el port de client yuge en el router. Això només funciona quan el router és compatible amb UPnP i està habilitat.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1181,8 +1181,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the PUNZ network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connecteu-vos a la xarxa PUNZ través d&apos;un proxy SOCKS (per exemple, quan es connecta a través de Tor).</translation>
+        <source>Connect to the yuge network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connecteu-vos a la xarxa yuge través d&apos;un proxy SOCKS (per exemple, quan es connecta a través de Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1256,8 +1256,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting PUNZ.</source>
-        <translation>L&apos;idioma de la interfície d&apos;usuari es pot configurar aquí. Aquesta configuració s&apos;aplicarà després de reiniciar PUNZ.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting yuge.</source>
+        <translation>L&apos;idioma de la interfície d&apos;usuari es pot configurar aquí. Aquesta configuració s&apos;aplicarà després de reiniciar yuge.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1271,8 +1271,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show PUNZ addresses in the transaction list or not.</source>
-        <translation>Per mostrar PUNZ adreces a la llista de transaccions o no.</translation>
+        <source>Whether to show yuge addresses in the transaction list or not.</source>
+        <translation>Per mostrar yuge adreces a la llista de transaccions o no.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1318,8 +1318,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting PUNZ.</source>
-        <translation>Aquesta configuració s&apos;aplicarà després de reiniciar PUNZ.</translation>
+        <source>This setting will take effect after restarting yuge.</source>
+        <translation>Aquesta configuració s&apos;aplicarà després de reiniciar yuge.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1337,8 +1337,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the PUNZ network after a connection is established, but this process has not completed yet.</source>
-        <translation>La informació mostrada pot estar fora de data. La seva cartera es sincronitza automàticament amb la xarxa PUNZ després d&apos;establir una connexió, però aquest procés no s&apos;ha completat encara.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the yuge network after a connection is established, but this process has not completed yet.</source>
+        <translation>La informació mostrada pot estar fora de data. La seva cartera es sincronitza automàticament amb la xarxa yuge després d&apos;establir una connexió, però aquest procés no s&apos;ha completat encara.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1553,8 +1553,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the PUNZ-Qt help message to get a list with possible PUNZ command-line options.</source>
-        <translation>Mostra el missatge d&apos;ajuda de PUNZ-Qt per obtenir una llista amb les possibles opcions de línia d&apos;ordres PUNZ.</translation>
+        <source>Show the yuge-Qt help message to get a list with possible yuge command-line options.</source>
+        <translation>Mostra el missatge d&apos;ajuda de yuge-Qt per obtenir una llista amb les possibles opcions de línia d&apos;ordres yuge.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1573,13 +1573,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>PUNZ - Debug window</source>
-        <translation>PUNZ - Finestra Depuració</translation>
+        <source>yuge - Debug window</source>
+        <translation>yuge - Finestra Depuració</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>PUNZ Core</source>
-        <translation>Nucli PUNZ</translation>
+        <source>yuge Core</source>
+        <translation>Nucli yuge</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1588,8 +1588,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the PUNZ debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Obriu el fitxer de registre de depuració PUNZ des del directori de dades actual. Això pot trigar uns segons en els arxius de registre de grans dimensions.</translation>
+        <source>Open the yuge debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Obriu el fitxer de registre de depuració yuge des del directori de dades actual. Això pot trigar uns segons en els arxius de registre de grans dimensions.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1598,8 +1598,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the PUNZ RPC console.</source>
-        <translation>Benvingut a la consola RPC de PUNZ.</translation>
+        <source>Welcome to the yuge RPC console.</source>
+        <translation>Benvingut a la consola RPC de yuge.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1757,8 +1757,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a PUNZ address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introdueix una adreça PUNZ (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a yuge address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introdueix una adreça yuge (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1857,8 +1857,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid PUNZ address</source>
-        <translation>ADVERTÈNCIA: Direcció PUNZ invàlida</translation>
+        <source>WARNING: Invalid yuge address</source>
+        <translation>ADVERTÈNCIA: Direcció yuge invàlida</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1931,8 +1931,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a PUNZ address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introdueix una adreça PUNZ (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a yuge address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introdueix una adreça yuge (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1992,8 +1992,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this PUNZ address</source>
-        <translation>Signar un missatge per demostrar que és propietari d&apos;aquesta adreça PUNZ</translation>
+        <source>Sign the message to prove you own this yuge address</source>
+        <translation>Signar un missatge per demostrar que és propietari d&apos;aquesta adreça yuge</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2024,8 +2024,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified PUNZ address</source>
-        <translation>Comproveu el missatge per assegurar-se que es va signar amb l&apos;adreça PUNZ especificada.</translation>
+        <source>Verify the message to ensure it was signed with the specified yuge address</source>
+        <translation>Comproveu el missatge per assegurar-se que es va signar amb l&apos;adreça yuge especificada.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2035,8 +2035,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a PUNZ address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introdueix una adreça PUNZ (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a yuge address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introdueix una adreça yuge (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2045,8 +2045,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter PUNZ signature</source>
-        <translation>Introduïu la signatura PUNZ</translation>
+        <source>Enter yuge signature</source>
+        <translation>Introduïu la signatura yuge</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2616,8 +2616,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>PUNZ version</source>
-        <translation>versió PUNZ</translation>
+        <source>yuge version</source>
+        <translation>versió yuge</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2626,8 +2626,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or PUNZd</source>
-        <translation>Enviar comandes a -server o PUNZd</translation>
+        <source>Send command to -server or yuged</source>
+        <translation>Enviar comandes a -server o yuged</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2646,13 +2646,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: PUNZ.conf)</source>
-        <translation>Especifiqueu el fitxer de configuració (per defecte: PUNZ.conf)</translation>
+        <source>Specify configuration file (default: yuge.conf)</source>
+        <translation>Especifiqueu el fitxer de configuració (per defecte: yuge.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: PUNZd.pid)</source>
-        <translation>Especificar arxiu pid (per defecte: PUNZd.pid)</translation>
+        <source>Specify pid file (default: yuged.pid)</source>
+        <translation>Especificar arxiu pid (per defecte: yuged.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2801,8 +2801,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong PUNZ will not work properly.</source>
-        <translation>Avís: Comproveu que la data i hora de l&apos;equip siguin correctes! Si el seu rellotge és erroni PUNZ no funcionarà correctament.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong yuge will not work properly.</source>
+        <translation>Avís: Comproveu que la data i hora de l&apos;equip siguin correctes! Si el seu rellotge és erroni yuge no funcionarà correctament.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2991,24 +2991,24 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=PUNZrpc
+rpcuser=yugerpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;PUNZ Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;yuge Alert&quot; admin@foo.com
 </source>
         <translation>%s, ha d&apos;establir un rpcpassword al fitxer de configuració:
 %s
 Es recomana utilitzar la següent contrasenya aleatòria:
-rpcuser=PUNZrpc
+rpcuser=yugerpc
 rpcpassword=%s
 (No cal recordar aquesta contrasenya)
 El nom d&apos;usuari i contrasenya NO HA DE SER el mateix.
 Si no hi ha l&apos;arxiu, s&apos;ha de crear amb els permisos de només lectura per al propietari.
 També es recomana establir alertnotify per a que se li notifiquin els problemes;
-per exemple: alertnotify=echo %%s | mail -s &quot;PUNZ Alert&quot; admin@foo.com
+per exemple: alertnotify=echo %%s | mail -s &quot;yuge Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3134,13 +3134,13 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  PUNZ is probably already running.</source>
-        <translation>No es pot obtenir un bloqueig en el directori de dades %s. PUNZ probablement ja estigui en funcionament.</translation>
+        <source>Cannot obtain a lock on data directory %s.  yuge is probably already running.</source>
+        <translation>No es pot obtenir un bloqueig en el directori de dades %s. yuge probablement ja estigui en funcionament.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>PUNZ</source>
-        <translation>PUNZ</translation>
+        <source>yuge</source>
+        <translation>yuge</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3174,13 +3174,13 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of PUNZ</source>
-        <translation>Error en carregar wallet.dat: La cartera requereix la versió més recent de PUNZ</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of yuge</source>
+        <translation>Error en carregar wallet.dat: La cartera requereix la versió més recent de yuge</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart PUNZ to complete</source>
-        <translation>La cartera necessita ser reescrita: reiniciar PUNZ per completar</translation>
+        <source>Wallet needed to be rewritten: restart yuge to complete</source>
+        <translation>La cartera necessita ser reescrita: reiniciar yuge per completar</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3249,8 +3249,8 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. PUNZ is probably already running.</source>
-        <translation>No es pot enllaçar a %s en aquest equip. PUNZ probablement ja estigui en funcionament.</translation>
+        <source>Unable to bind to %s on this computer. yuge is probably already running.</source>
+        <translation>No es pot enllaçar a %s en aquest equip. yuge probablement ja estigui en funcionament.</translation>
     </message>
     <message>
         <location line="-97"/>

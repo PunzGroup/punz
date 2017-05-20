@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About PUNZ</source>
-        <translation>O PUNZ</translation>
+        <source>About yuge</source>
+        <translation>O yuge</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;PUNZ&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;PUNZ&lt;/b&gt; verzia</translation>
+        <source>&lt;b&gt;yuge&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;yuge&lt;/b&gt; verzia</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The PUNZ developers</source>
+Copyright © 2014 The yuge developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The PUNZ developers</translation>
+Copyright © 2014 The yuge developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your PUNZ addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Toto sú vaše PUNZ adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, takže môžete sledovať, kto Vám platí.</translation>
+        <source>These are your yuge addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Toto sú vaše yuge adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, takže môžete sledovať, kto Vám platí.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a PUNZ address</source>
-        <translation>Podpísať správu, že vlastníte PUNZ adresu</translation>
+        <source>Sign a message to prove you own a yuge address</source>
+        <translation>Podpísať správu, že vlastníte yuge adresu</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified PUNZ address</source>
-        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou PUNZ adresou</translation>
+        <source>Verify a message to ensure it was signed with a specified yuge address</source>
+        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou yuge adresou</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-58"/>
-        <source>PUNZ will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>PUNZ sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom napadnutím vašeho počítača.</translation>
+        <source>yuge will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>yuge sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom napadnutím vašeho počítača.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about PUNZ</source>
-        <translation>Zobraziť informácie o PUNZ</translation>
+        <source>Show information about yuge</source>
+        <translation>Zobraziť informácie o yuge</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a PUNZ address</source>
-        <translation>Poslať mince na PUNZ adresu</translation>
+        <source>Send coins to a yuge address</source>
+        <translation>Poslať mince na yuge adresu</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for PUNZ</source>
-        <translation>Upraviť možnosti konfigurácie pre PUNZ</translation>
+        <source>Modify configuration options for yuge</source>
+        <translation>Upraviť možnosti konfigurácie pre yuge</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-202"/>
-        <source>PUNZ</source>
-        <translation>PUNZ</translation>
+        <source>yuge</source>
+        <translation>yuge</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About PUNZ</source>
-        <translation>&amp;O PUNZ</translation>
+        <source>&amp;About yuge</source>
+        <translation>&amp;O yuge</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>PUNZ client</source>
-        <translation>PUNZ client</translation>
+        <source>yuge client</source>
+        <translation>yuge client</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to PUNZ network</source>
-        <translation><numerusform>%n aktívne spojenie s PUNZ sieťov</numerusform><numerusform>%n aktívnych spojení s PUNZ sieťov</numerusform><numerusform>%n aktívnych spojení s PUNZ sieťov</numerusform></translation>
+        <source>%n active connection(s) to yuge network</source>
+        <translation><numerusform>%n aktívne spojenie s yuge sieťov</numerusform><numerusform>%n aktívnych spojení s yuge sieťov</numerusform><numerusform>%n aktívnych spojení s yuge sieťov</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -584,13 +584,13 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-312"/>
-        <source>About PUNZ card</source>
-        <translation>O PUNZ karte</translation>
+        <source>About yuge card</source>
+        <translation>O yuge karte</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about PUNZ card</source>
-        <translation>Zobraziť informácie o PUNZ karte</translation>
+        <source>Show information about yuge card</source>
+        <translation>Zobraziť informácie o yuge karte</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -668,8 +668,8 @@ Adresa: %4</translation>
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid PUNZ address or malformed URI parameters.</source>
-        <translation>URI nemožno analyzovať! To môže byť spôsobené neplatnou PUNZ adresu alebo chybnými URI parametrami.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid yuge address or malformed URI parameters.</source>
+        <translation>URI nemožno analyzovať! To môže byť spôsobené neplatnou yuge adresu alebo chybnými URI parametrami.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -728,8 +728,8 @@ Adresa: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. PUNZ can no longer continue safely and will quit.</source>
-        <translation>Došlo k závažnej chybe. PUNZ už nemôže pokračovať bezpečne a bude ukončený.</translation>
+        <source>A fatal error occurred. yuge can no longer continue safely and will quit.</source>
+        <translation>Došlo k závažnej chybe. yuge už nemôže pokračovať bezpečne a bude ukončený.</translation>
     </message>
 </context>
 <context>
@@ -1062,8 +1062,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid PUNZ address.</source>
-        <translation>Zadaná adresa &quot;%1&quot; nie je platnou PUNZ adresou.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid yuge address.</source>
+        <translation>Zadaná adresa &quot;%1&quot; nie je platnou yuge adresou.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1081,8 +1081,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>PUNZ-Qt</source>
-        <translation>PUNZ-Qt</translation>
+        <source>yuge-Qt</source>
+        <translation>yuge-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1154,13 +1154,13 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start PUNZ after logging in to the system.</source>
-        <translation>Automaticky spustiť PUNZ po prihlásení sa do systému.</translation>
+        <source>Automatically start yuge after logging in to the system.</source>
+        <translation>Automaticky spustiť yuge po prihlásení sa do systému.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start PUNZ on system login</source>
-        <translation>&amp;Spustiť PUNZ pri prihlásení do systému</translation>
+        <source>&amp;Start yuge on system login</source>
+        <translation>&amp;Spustiť yuge pri prihlásení do systému</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1179,8 +1179,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the PUNZ client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automaticky otvoriť port klienta PUNZ na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
+        <source>Automatically open the yuge client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automaticky otvoriť port klienta yuge na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1189,8 +1189,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the PUNZ network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Pripojenie k sieti PUNZ cez SOCKS proxy server (napr. pri pripojení cez Tor).</translation>
+        <source>Connect to the yuge network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Pripojenie k sieti yuge cez SOCKS proxy server (napr. pri pripojení cez Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1264,8 +1264,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting PUNZ.</source>
-        <translation>Jazyk používateľského rozhrania je možné tu nastaviť. Toto nastavenie sa prejaví až po reštartovaní PUNZ.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting yuge.</source>
+        <translation>Jazyk používateľského rozhrania je možné tu nastaviť. Toto nastavenie sa prejaví až po reštartovaní yuge.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1279,8 +1279,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show PUNZ addresses in the transaction list or not.</source>
-        <translation>Či chcete zobraziť PUNZ adresy v zozname transakcií alebo nie.</translation>
+        <source>Whether to show yuge addresses in the transaction list or not.</source>
+        <translation>Či chcete zobraziť yuge adresy v zozname transakcií alebo nie.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1326,8 +1326,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting PUNZ.</source>
-        <translation>Toto nastavenie sa prejaví až po reštartovaní PUNZ.</translation>
+        <source>This setting will take effect after restarting yuge.</source>
+        <translation>Toto nastavenie sa prejaví až po reštartovaní yuge.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1345,8 +1345,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the PUNZ network after a connection is established, but this process has not completed yet.</source>
-        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou PUNZ po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the yuge network after a connection is established, but this process has not completed yet.</source>
+        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou yuge po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1561,8 +1561,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the PUNZ-Qt help message to get a list with possible PUNZ command-line options.</source>
-        <translation>Zobraziť PUNZ-Qt nápovedu k získaniu zoznamu pre možnosti PUNZ príkazového riadku.</translation>
+        <source>Show the yuge-Qt help message to get a list with possible yuge command-line options.</source>
+        <translation>Zobraziť yuge-Qt nápovedu k získaniu zoznamu pre možnosti yuge príkazového riadku.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1581,13 +1581,13 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="-104"/>
-        <source>PUNZ - Debug window</source>
-        <translation>PUNZ - Ladiace okno</translation>
+        <source>yuge - Debug window</source>
+        <translation>yuge - Ladiace okno</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>PUNZ Core</source>
-        <translation>PUNZ Core</translation>
+        <source>yuge Core</source>
+        <translation>yuge Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1596,8 +1596,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the PUNZ debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Otvorte PUNZ ladenie log súbor z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory protokolu.</translation>
+        <source>Open the yuge debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Otvorte yuge ladenie log súbor z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory protokolu.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1606,8 +1606,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the PUNZ RPC console.</source>
-        <translation>Vitajte v PUNZ RPC konzole.</translation>
+        <source>Welcome to the yuge RPC console.</source>
+        <translation>Vitajte v yuge RPC konzole.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1765,8 +1765,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a PUNZ address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadajte PUNZ adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a yuge address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Zadajte yuge adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1865,8 +1865,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid PUNZ address</source>
-        <translation>VAROVANIE: Neplatná PUNZ adresa</translation>
+        <source>WARNING: Invalid yuge address</source>
+        <translation>VAROVANIE: Neplatná yuge adresa</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1939,8 +1939,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a PUNZ address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadaj a PUNZ addresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a yuge address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Zadaj a yuge addresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -2000,8 +2000,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this PUNZ address</source>
-        <translation>Podpísať správu ako dôkaz, že vlastníte túto PUNZ adresu</translation>
+        <source>Sign the message to prove you own this yuge address</source>
+        <translation>Podpísať správu ako dôkaz, že vlastníte túto yuge adresu</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2032,8 +2032,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified PUNZ address</source>
-        <translation>Overte správu, aby zabezpečilo, že bola podpísaná s danou PUNZ adresu</translation>
+        <source>Verify the message to ensure it was signed with the specified yuge address</source>
+        <translation>Overte správu, aby zabezpečilo, že bola podpísaná s danou yuge adresu</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2043,8 +2043,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a PUNZ address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadajte PUNZ adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a yuge address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Zadajte yuge adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2053,8 +2053,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter PUNZ signature</source>
-        <translation>Zadajte PUNZ podpis</translation>
+        <source>Enter yuge signature</source>
+        <translation>Zadajte yuge podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2624,8 +2624,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>PUNZ version</source>
-        <translation>PUNZ verzia</translation>
+        <source>yuge version</source>
+        <translation>yuge verzia</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2634,8 +2634,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or PUNZd</source>
-        <translation>Pošli príkaz na -server alebo PUNZd</translation>
+        <source>Send command to -server or yuged</source>
+        <translation>Pošli príkaz na -server alebo yuged</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2654,13 +2654,13 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: PUNZ.conf)</source>
-        <translation>Zadajte konfiguračný súbor (predvolené: PUNZ.conf)</translation>
+        <source>Specify configuration file (default: yuge.conf)</source>
+        <translation>Zadajte konfiguračný súbor (predvolené: yuge.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: PUNZd.pid)</source>
-        <translation>Zadajte pid súbor (predvolené: PUNZd.pid)</translation>
+        <source>Specify pid file (default: yuged.pid)</source>
+        <translation>Zadajte pid súbor (predvolené: yuged.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2809,8 +2809,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong PUNZ will not work properly.</source>
-        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny PUNZ nebude pracovať správne.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong yuge will not work properly.</source>
+        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny yuge nebude pracovať správne.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2999,24 +2999,24 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=PUNZrpc
+rpcuser=yugerpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;PUNZ Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;yuge Alert&quot; admin@foo.com
 </source>
         <translation>%s, musíte nastaviť rpcpassword v konfiguračnom súbore:
  %s
 Je odporúčané použiť nasledujúce náhodné heslo:
-rpcuser=PUNZrpc
+rpcuser=yugerpc
 rpcpassword=%s
 (Nemusíte si pamätať toto heslo)
 Užívateľské meno a heslo nesmú byť rovnaké. 
 Ak súbor neexistuje, vytvorte ho s oprávneniami súborov vlastníkov iba na čítatanie.
 Odporúča sa tiež nastaviť alertnotify, takže budete upozornení na problémy;
-napríklad: alertnotify=echo %%s | mail -s &quot;PUNZ Alert&quot; admin@foo.com</translation>
+napríklad: alertnotify=echo %%s | mail -s &quot;yuge Alert&quot; admin@foo.com</translation>
     </message>
     <message>
         <location line="+51"/>
@@ -3140,13 +3140,13 @@ napríklad: alertnotify=echo %%s | mail -s &quot;PUNZ Alert&quot; admin@foo.com<
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  PUNZ is probably already running.</source>
-        <translation>Nemožno získať zámok na dátový adresár %s. PUNZ už pravdepodobne beží.</translation>
+        <source>Cannot obtain a lock on data directory %s.  yuge is probably already running.</source>
+        <translation>Nemožno získať zámok na dátový adresár %s. yuge už pravdepodobne beží.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>PUNZ</source>
-        <translation>PUNZ</translation>
+        <source>yuge</source>
+        <translation>yuge</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3180,13 +3180,13 @@ napríklad: alertnotify=echo %%s | mail -s &quot;PUNZ Alert&quot; admin@foo.com<
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of PUNZ</source>
-        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu PUNZ</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of yuge</source>
+        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu yuge</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart PUNZ to complete</source>
-        <translation>Peňaženka potrebuje byť prepísaná: reštartujte PUNZ k dokončeniu</translation>
+        <source>Wallet needed to be rewritten: restart yuge to complete</source>
+        <translation>Peňaženka potrebuje byť prepísaná: reštartujte yuge k dokončeniu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3255,8 +3255,8 @@ napríklad: alertnotify=echo %%s | mail -s &quot;PUNZ Alert&quot; admin@foo.com<
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. PUNZ is probably already running.</source>
-        <translation>Nemôžem sa pripojiť na %s na tomto počítači. PUNZ je pravdepodobne už beží.</translation>
+        <source>Unable to bind to %s on this computer. yuge is probably already running.</source>
+        <translation>Nemôžem sa pripojiť na %s na tomto počítači. yuge je pravdepodobne už beží.</translation>
     </message>
     <message>
         <location line="-97"/>

@@ -1,9 +1,9 @@
-Building PUNZ
+Building yuge
 
-See doc/readme-qt.rst for instructions on building PUNZ QT,
+See doc/readme-qt.rst for instructions on building yuge QT,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of PUNZ.
+implementation of yuge.
 
-See doc/build-*.txt for instructions on building PUNZd,
+See doc/build-*.txt for instructions on building yuged,
 the intended-for-services, no-graphical-interface, reference
-implementation of PUNZ.
+implementation of yuge.
